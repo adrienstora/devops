@@ -192,7 +192,7 @@ A quel point les développeurs ont réalisé des tests unitaires ? Quelles parti
         </plugins>
     </reporting>
 
-Lien utile : http://mojo.codehaus.org/cobertura-maven-plugin/usage.html
+Lien utile : http://www.mojohaus.org/cobertura-maven-plugin/usage.html
 
 ## Intégration Continue
 
